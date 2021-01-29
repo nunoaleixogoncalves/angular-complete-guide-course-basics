@@ -7,10 +7,24 @@
       <!-- <div app-servers></div> -->
       <!-- <div class="app-servers"></div> -->
     </div>
-    
 
+    <div class="col-12">
+      <hr>
+      <app-assignments></app-assignments>
+    </div>
 
-
-    <app-assignments></app-assignments>
+    <div class="container">
+      <hr>
+      Section 5
+      <div class="row">
+        <app-cockpit (serverCreated)="onServerAdded($event)" (blueprintCreated)="onBlueprintAdded($event)"></app-cockpit>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-xs-12">
+          <app-server-element *ngFor="let server of serverElements" [element]="server"></app-server-element>
+        </div>
+      </div>
+    </div>
   </div>
 </div>

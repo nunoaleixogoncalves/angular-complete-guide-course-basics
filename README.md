@@ -1,7 +1,7 @@
 Udemy course 
 Angular - The Complete Guide (2021 Edition)
 
-section 1 and 2 first-app the basics
+section 1, 2 and 5 first-app the basics
 
 https://www.udemy.com/course/the-complete-guide-to-angular-2
 
