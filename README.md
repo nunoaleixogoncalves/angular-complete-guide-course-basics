@@ -1,6 +1,8 @@
 Udemy course 
 Angular - The Complete Guide (2021 Edition)
 
+section 1 and 2 first-app the basics
+
 https://www.udemy.com/course/the-complete-guide-to-angular-2
 
 Commands:
@@ -17,7 +19,10 @@ ng serve OR npm run start
 
 
 //////////////////////////////////////////
+
+
 //////////////////////////////////////////
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
