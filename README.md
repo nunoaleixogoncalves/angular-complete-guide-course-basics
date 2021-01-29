@@ -1,4 +1,23 @@
-# MyFirstApp
+Udemy course 
+Angular - The Complete Guide (2021 Edition)
+
+https://www.udemy.com/course/the-complete-guide-to-angular-2
+
+Commands:
+
+sudo npm uninstall -g angular-cli @angular/cli
+npm cache clean --force
+sudo npm install -g @angular/cli
+
+npm install --save bootstrap@4
+
+ng serve OR npm run start
+
+
+
+
+//////////////////////////////////////////
+//////////////////////////////////////////
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
